@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on machine learning projects to enhance my learning and skill set.
-- 📫 How to reach me? You can reach me at osama.hassan.hhs@gmail.com. Also, you connect with me on LinkedIn 
+- 📫 How to reach me? You can reach me via email at osama.hassan.hhs@gmail.com. Also, you connect with me on [LinkedIn](https://linkedin.com/in/osamayusufhassan) and follow me on [Medium](osamayusufhassan.medium.com) to stay updated with my latest articles. 
 
 # Osama's Portfolio  👋 <br /> <br />
 # Data Science Projects
@@ -34,7 +34,7 @@
 <br />
 
 
-# [Data Science Blog](https://osamayusufhassan.medium.com/) 
+# [Data Science Blog](https://osamayusufhassan.medium.com/)
 ## [1. Importance of Conext in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)
 • A brief summary of interrelation between data and context, and its transition into knowledge.
 ## [2. Writing a Winning Data Science Resume](https://osamayusufhassan.medium.com/data-science-resume-dos-and-don-t-f32e308b7e8c)
