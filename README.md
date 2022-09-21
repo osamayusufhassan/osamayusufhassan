@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osamayusufhassan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
+- 👀 I’m interested in data science, machine learning and data analytics.
+- 🌱 I’m currently learning logistic regression and data analytics.
 - 💞️ I’m looking to collaborate on machine learning projects to enhance my learning and skill set.
 - 📫 How to reach me? You can reach me via email at osama.hassan.hhs@gmail.com. Also, you connect with me on [LinkedIn](https://linkedin.com/in/osamayusufhassan) and follow me on [Medium](osamayusufhassan.medium.com) to stay updated with my latest articles. 
 
