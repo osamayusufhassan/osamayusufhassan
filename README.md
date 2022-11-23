@@ -42,7 +42,7 @@
 
 ## [6. Sales Report [Microsoft Power BI]](https://github.com/osamayusufhassan/Sales_Dashboard)
 • Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries.<br />
-• Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft PowerBI.<br />
+• Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
 
