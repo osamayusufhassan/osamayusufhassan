@@ -36,7 +36,7 @@
 
 ## [5. Customer Churn Rate [Microsoft Power BI]](https://github.com/osamayusufhassan/Customer_Churn_Rate)
 • Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
-• Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft PowerBI.<br />
+• Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
 
