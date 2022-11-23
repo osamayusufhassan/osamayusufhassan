@@ -5,7 +5,8 @@
 - 📫 How to reach me? You can reach me via email at osama.hassan.hhs@gmail.com. Also, you connect with me on [LinkedIn](https://linkedin.com/in/osamayusufhassan) and follow me on [Medium](osamayusufhassan.medium.com) to stay updated with my latest articles. 
 
 # Osama's Portfolio  👋 <br /> <br />
-# Data Science Projects
+
+# Projects
 ## [1. Estimation of Future Profits for Venture Capital Investors](https://github.com/osamayusufhassan/VC_profit_estimator_multiple_linear_regression)
 • Problem Statement: A VC firm is holding a board meeting to assess the potentials of profitability in the current market. Create a model to estimate the future profits for venture capitalists in order to assist them in making the right investment.<br />
 •	Skills Accomplished: Python, sci-kit learn (Linear Regression, train_test_split), pandas, numpy, maltplotlib, OneHotEncoder, Model Evaluation using R-squared metric.<br />
@@ -33,12 +34,41 @@
 • Performed model validation and handled overfitting vs underfitting to minimize mean absolute error.<br />
 <br />
 
+## [5. Customer Churn Rate](https://github.com/osamayusufhassan/Customer_Churn_Rate)
+• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
+• Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft PowerBI.<br />
+•	Tools Used: Microsoft PowerBI, Microsoft Excel.<br />
+<br />
 
-# Data Science Blog [(Medium)](https://osamayusufhassan.medium.com/)
+## [6. Sales Report](https://github.com/osamayusufhassan/Sales_Dashboard)
+• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries.<br />
+• Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft PowerBI.<br />
+•	Tools Used: Microsoft PowerBI, Microsoft Excel.<br />
+<br />
+
+
+# [Data Science Blog](https://osamayusufhassan.medium.com/) 
 ## [1. Importance of Context in Data](https://osamayusufhassan.medium.com/importance-of-context-in-data-18d438822ffc)
 • A brief summary of interrelation between data and context, and its transition into knowledge.
 ## [2. Writing a Winning Data Science Resume](https://osamayusufhassan.medium.com/data-science-resume-dos-and-don-t-f32e308b7e8c)
 • A deep dive into the essentials of creating your data science resume.
+
+
+
+<!--
+**osamayusufhassan/osamayusufhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
 <!---
