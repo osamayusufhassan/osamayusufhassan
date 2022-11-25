@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning and data analytics.
 - 🌱 I’m currently learning logistic regression and data analytics.
 - 💞️ I’m looking to collaborate on machine learning projects to enhance my learning and skill set.
-- 📫 How to reach me? You can reach me via email at osama.hassan.hhs@gmail.com. Also, you connect with me on [LinkedIn](https://linkedin.com/in/osamayusufhassan) and follow me on [Medium](osamayusufhassan.medium.com) to stay updated with my latest articles. 
+- 📫 How to reach me? You can reach me via email at osama.hassan.hhs@gmail.com. Also, you connect with me on [LinkedIn](https://linkedin.com/in/osamayusufhassan) and follow me on [Medium](osamayusufhassan.medium.com) to stay updated with my latest content.
 
 # Osama's Portfolio  👋 <br /> <br />
 
@@ -35,13 +35,13 @@
 <br />
 
 ## [5. Customer Churn Rate [Microsoft Power BI]](https://github.com/osamayusufhassan/Customer_Churn_Rate)
-• Problem Statement: Study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
+• Problem Statement: Using historical data, study the Customer Churn Rate in the US on the basis of category, reasons, age and analyze the relationship between Customer Service Calls and Customer Churn.<br />
 • Skills Accomplished: Exploratory Data Analysis, Query editor, new query, new column, filtering, mapping, pie chart and dashboarding etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
 
 ## [6. Sales Report [Microsoft Power BI]](https://github.com/osamayusufhassan/Sales_Dashboard)
-• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries.<br />
+• Problem Statement: Study the sales data and create Sales Report by Calendar Year, Fiscal Semester, Fiscal Quarter and Countries using historical dat.<br />
 • Skills Accomplished: Exploratory Data Analysis, new column, Query editor, pie chart, mapping, dashboarding, treemap, multi-row card and stacked column chart etc on Microsoft Power BI.<br />
 •	Tools Used: Microsoft Power BI, Microsoft Excel.<br />
 <br />
